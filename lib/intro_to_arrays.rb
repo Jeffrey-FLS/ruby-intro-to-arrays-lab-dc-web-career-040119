@@ -7,8 +7,8 @@ def array_with_two_elements
   new_array = [0,1]
 end
 
-def first_element(firstIndex)
-  new_array[firstIndex]
+def first_element(array)
+  array.first
 end
 
 def third_element()
