@@ -6,3 +6,4 @@ end
 def array_with_two_elements
   new_array = [0,1]
 end
+
