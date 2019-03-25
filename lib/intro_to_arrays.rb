@@ -1,4 +1,4 @@
 
 def instantiate_new_array 
-  newArray = []
+  new_array = []
 end
